@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **Spring Framework, Angular**
 
-- 📫 How to reach me **josemontes.2@hotmail.com**
+- 📫 How to reach me **josemontes.j7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
